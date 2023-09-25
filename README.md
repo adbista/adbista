@@ -11,7 +11,7 @@
 ## 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adam-bi%C5%9Bta-948720231/)
-![Gmail](https://img.shields.io/badge/adambista2002@gmail.com-%230077B5.svg?style=for-the-badge&logo=gmail)
+![Gmail](https://img.shields.io/badge/adamosekk2002@gmail.com-%230077B5.svg?style=for-the-badge&logo=gmail)
 
 ## 💼 Skills & Technologies
 
