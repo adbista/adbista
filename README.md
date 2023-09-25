@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Adam Biśta!
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adam0s007&show_icons=true&theme=radical" alt="Adam's GitHub Stats" width="450"/>
