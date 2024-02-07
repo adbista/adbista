@@ -18,8 +18,6 @@
 <table>
     <tbody>
         <tr>
-            <td> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/></td>
-            <td> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> </td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/></td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/></td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/></td>
@@ -28,11 +26,16 @@
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/></td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/></td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/></td>
-            <td> <img height="50" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"/></td>
+        </tr>
+         <tr>
+            <td><img height="50" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"/></td>
+            <td> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/></td>
+            <td> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> </td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/></td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/></td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/></td>
+             <td> <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/></td>
         </tr>
     </tbody>
 </table>
