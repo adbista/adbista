@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adam0s007&show_icons=true&theme=radical" alt="Adam's GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adam0s007&hide=css,scss,html&theme=radical&layout=compact&langs_count=6" alt="Top Languages" width="370"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adbista&show_icons=true&theme=radical" alt="Adam's GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adbista&hide=css,scss,html&theme=radical&layout=compact&langs_count=6" alt="Top Languages" width="370"/>
 </p>
 
 - 🎓 **Education:** 5th-year Computer Science student at AGH University
