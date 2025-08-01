@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adam0s007&hide=css,scss,html&theme=radical&layout=compact&langs_count=6" alt="Top Languages" width="370"/>
 </p>
 
-- 🎓 **Education:** 4th-year Computer Science student at AGH University
+- 🎓 **Education:** 5th-year Computer Science student at AGH University
 
 ## 📬 Get in Touch
 
